@@ -36,7 +36,9 @@ An interactive Power BI dashboard built using NEET (National Eligibility cum Ent
 - **Business Relevance:**  
   - Insights helpful for **coaching institutes** to target states with high/low performance  
   - Helps in strategic decisions for admissions, outreach, and marketing  
-
+-security & performance
+-used the RLAs for the role based access by restricting the data for users etc
+ 
 ---
 
 ## 📊 Visual Elements
